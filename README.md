@@ -7,3 +7,4 @@ About: With this project, the aim is to fill a crucial gap in currently existing
 4. Analytics is performed in the data obtained using a decision tree classifier.
 5. The analytics system is connected to the IOT based hardware module using an Ethernet module.
 
+In addition to the two uploaded codes, there is an android application as well that was developed for the sole purpose of retrieving the stored data from ThingSpeak Channel and providing easy access of data and analysis on a mobile platform.
